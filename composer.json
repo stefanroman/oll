@@ -1,0 +1,5 @@
+{
+  "name": "hogarthww_modules/original_language_link",
+  "description": "Provides path cleanup for multilanguage websites.",
+  "type": "drupal-custom-module"
+}

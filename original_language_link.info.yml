@@ -1,0 +1,5 @@
+name: Original Language Link
+description:  Alters links for multilanguage websites
+type: module
+package: Custom
+core_version_requirement: ^8.9 || ^9

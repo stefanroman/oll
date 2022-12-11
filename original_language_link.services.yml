@@ -1,0 +1,3 @@
+services:
+  original_language_link.link_service:
+    class: Drupal\original_language_link\LinkService
